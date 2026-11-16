@@ -99,14 +99,12 @@ Tenho desenvolvido projetos práticos para aplicar meus conhecimentos em anális
 
 ---
 
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ThainaRosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThainaRosa&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas" />
+  <img height="180" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
+  <img height="180" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas" />
 </p>
-
 
 ---
 
