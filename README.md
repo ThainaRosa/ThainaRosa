@@ -99,24 +99,28 @@ Tenho desenvolvido projetos práticos para aplicar meus conhecimentos em anális
 
 ---
 
-### 📈 Estatísticas do GitHub
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=ThainaRosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=ThainaRosa\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&locale=pt-br)" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ThainaRosa&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br](https://github-readme-stats.vercel.app/api/top-langs/?username=ThainaRosa\&theme=tokyonight\&layout=compact\&langs_count=8\&locale=pt-br)" />
-\</p>
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ThainaRosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThainaRosa&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas" />
+</p>
+
 
 ---
 
+
 ### 📫 Vamos nos conectar?
 
-\<p align="left">
-&#x20; \<a href="[https://www.linkedin.com/in/thaina-rosa-0150a9404/](https://www.linkedin.com/in/thaina-rosa-0150a9404/)" target="\_blank">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/ThainaRosa](https://github.com/ThainaRosa)" target="\_blank">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/thaina-rosa-0150a9404/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ThainaRosa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 **Obrigada por visitar meu perfil!** 🚀
+
