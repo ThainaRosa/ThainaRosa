@@ -1,177 +1,97 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Thaina Rosa
 
-**`Desenvolvedora FullStack`**
+**`Analista de Dados | Business Intelligence | CRM & Marketing Analytics`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Olá! Me chamo Thaina Rosa, sou estudante de **Análise e Desenvolvimento de Sistemas** pela UNINTER, com formação prevista para dezembro de 2026.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Sou apaixonada por tecnologia, dados e análise de informações. Tenho experiência profissional na área de Ações Digitais, com atuação em CRM, acompanhamento de indicadores, análise de comportamento dos clientes, auditoria de fluxos digitais e elaboração de relatórios gerenciais.
+
+Durante minha trajetória, desenvolvi conhecimentos em ferramentas de análise e visualização de dados, como Excel, Power BI, SQL e Power Query. Atualmente, estou aprofundando meus conhecimentos em Python e desenvolvendo projetos práticos para aprimorar minhas habilidades em análise de dados e Business Intelligence.
+
+Meu objetivo é transformar dados em informações estratégicas que contribuam para a tomada de decisões e a melhoria de processos.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💼 Experiência Profissional
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+**Servcredi Assessoria Financeira | Analista de Ações Digitais**
 
-<br/>
-<br/>
+- Análise e auditoria de fluxos de atendimento digital (chatbot).
+- Acompanhamento da jornada e comportamento dos clientes.
+- Monitoramento de indicadores de desempenho (KPIs).
+- Elaboração de relatórios e dashboards em Excel e Power BI.
+- Análise de campanhas e desempenho dos canais digitais.
+- Identificação de oportunidades de melhoria nos processos e fluxos de comunicação.
 
-### 📊 Estatísticas
+**Prefeitura de Cotia | Estagiária**
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+- Validação e organização de dados cadastrais.
+- Análise e conferência de documentos.
+- Atualização de informações em sistemas internos.
+- Atendimento ao público por e-mail, telefone e WhatsApp.
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
-</p>
+### 🛠️ Linguagens, Ferramentas e Tecnologias
 
+**Análise de Dados e BI**
+
+\<img src="[https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)" /> \<img src="[https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge\&logo=microsoft\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)" />
+
+**Linguagens e Banco de Dados**
+
+\<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" />
+
+**Outras Ferramentas**
+
+\<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+
+---
+
+### 📚 Formação e Cursos
+
+- 🎓 Análise e Desenvolvimento de Sistemas — UNINTER (2024–2026).
+- 📊 Excel Avançado — Hashtag Treinamentos.
+- 📈 Power BI — Hashtag Treinamentos.
+- 📉 Análise de Dados — Hashtag Treinamentos.
+- 🗄️ SQL — Hashtag Treinamentos.
+- 🐍 Python — Em andamento.
+
+---
+
+### 📊 Projetos e Portfólio
+
+Tenho desenvolvido projetos práticos para aplicar meus conhecimentos em análise de dados, visualização de informações e construção de dashboards.
+
+- **Dashboard de Vendas:** análise de faturamento, desempenho e indicadores comerciais utilizando Excel.
+- **Análise de Clientes:** exploração de dados e identificação de padrões de comportamento.
+- **Relatório Financeiro:** organização e análise de informações financeiras.
+- **Projetos em Power BI e SQL:** desenvolvimento de consultas, tratamento de dados e visualização de indicadores.
+
+*Novos projetos serão adicionados conforme minha evolução técnica.*
+
+---
+
+### 📈 Estatísticas do GitHub
+
+\<p align="center">
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=ThainaRosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=ThainaRosa\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&locale=pt-br)" />
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ThainaRosa&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br](https://github-readme-stats.vercel.app/api/top-langs/?username=ThainaRosa\&theme=tokyonight\&layout=compact\&langs_count=8\&locale=pt-br)" />
+\</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+\<p align="left">
+&#x20; \<a href="[https://www.linkedin.com/in/thaina-rosa-0150a9404/](https://www.linkedin.com/in/thaina-rosa-0150a9404/)" target="\_blank">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/ThainaRosa](https://github.com/ThainaRosa)" target="\_blank">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+&#x20; \</a>
+\</p>
+
+**Obrigada por visitar meu perfil!** 🚀
